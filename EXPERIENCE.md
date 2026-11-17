@@ -13,7 +13,7 @@ Web applications for [Chyron LIVE](https://chyron.com/products/live-production-p
 
 The code lives in the company's private repositories.
 
-**Fakturca** · co-owner and main developer · since 2022
+**Fakturca** · main developer · since 2022
 
 An invoicing SaaS for Czech freelancers and companies, live at [fakturca.cz](https://fakturca.cz). I built the frontend, made the product decisions and oversaw the whole technical solution. Details in the [case study](https://github.com/polimich/fakturca).
 
