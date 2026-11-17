@@ -36,10 +36,11 @@ Python courses and camps for children aged 12 to 15.
 
 Bachelor's degree in Information Technology, Brno University of Technology (2021 – 2025). Czech native, English C1.
 
-## Older projects
+## Other projects
 
 | Project | What it is | Stack |
 |---|---|---|
+| [job-hunt](https://github.com/polimich/job-hunt) | Self-hosted tracker that collects job postings and follows applications | Vue 3, TypeScript, Hono, SQLite |
 | [mosparo-hook](https://github.com/dreamindsro/mosparo-hook) | React and Next.js integration for mosparo spam protection | TypeScript, React |
 | [IFJ-Projekt](https://github.com/polimich/IFJ-Projekt) | Compiler for a subset of PHP, team of four | C |
 | [IPP](https://github.com/polimich/IPP) | Parser and interpreter for the IPPcode23 language | PHP, Python |
